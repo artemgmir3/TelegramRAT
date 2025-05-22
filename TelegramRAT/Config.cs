@@ -2,8 +2,8 @@
 {
     public static class Config
     {
-        public const string TelegramBot_Token = "INSERT_BOT_TOKEN"; 
-        public const string TelegramChat_ID = "INSERT_TELEGRAM_CHAT_ID";
+        public const string TelegramBot_Token = "7855373163:AAFtySaK9dLzOQsoJOboSbaywoD7KLqSiOU"; 
+        public const string TelegramChat_ID = "1154804693";
         public const int commandCheckerDelay = 1000; // ms
         public const int maxFileSize = 52428800; // 50MB
 
